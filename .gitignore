@@ -1,0 +1,5 @@
+# Auto generated cache file
+__pycache__/
+
+# Postgres Data
+postgres-data/
